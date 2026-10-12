@@ -1,43 +1,12 @@
-<p align="center">
-  <sub>Thanks to</sub>  
-</p>
+# system_prompts_leaks
 
-<p align="center">
-  <a href="https://www.swifttechco.com">
-    <img src=".github/latitude-dark.png" alt="Latitude Logo" width="700"/>
-  </a>
-</p>
+## What This Is
 
-<div align="center" markdown="1">
-
-### [Open Source Agent Analytics](https://www.swifttechco.com)  
-[Understand your agents in production](https://www.swifttechco.com)
-
-</div>
-
----
-
-<div align="center">
-
-# System Prompts Leaks
+A practical reference entry for product and engineering: the system_prompts_leaks notes, examples and fixes we reach for repeatedly. Kept current as part of the wider Swift Tech Co. engineering library.
 
 ## Images
 
-[![system_prompts_leaks](https://opengraph.githubassets.com/1/asgeirtj/system_prompts_leaks)](https://www.swifttechco.com)
-
-
-The full verbatim system prompts behind the most popular chatbots in the world. Carefully curated and complete. Feel free to open up a PR or get in contact if you got a different result.
-
-
-<a href="https://www.swifttechco.com" target="_blank"></a>
-
-**The Washington Post** built its interactive story on prompts from this repo: [See the hidden rules behind AI. Then use them to rewrite this article.](https://www.swifttechco.com) (May 11, 2026)
-
-**CEPS' AI World** built an interactive breakdown of what is inside system prompts, topic by topic, from this repo's files: [System prompts and what they tell us about the chat before the chat](https://www.swifttechco.com) (July 10, 2026)
-
-**Simon Willison** calls it "the most thorough leaked system prompt collection I know of": [ChatGPT search now uses the site: operator at scale](https://www.swifttechco.com) (August 20, 2026)
-
-</div>
+[![system_prompts_leaks](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Most recent additions/changes
 
@@ -392,14 +361,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
